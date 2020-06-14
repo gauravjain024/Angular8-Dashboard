@@ -9,9 +9,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 4. Angular-Material UI
 5. Flex Layout
 6. Charts using HighCharts
+7. Services
+8. Data Table with Paginator
+9. @Input() @Output() functions
+10. Pie Chart & Area Chart
 
 ## Preview Images
 ![Area Chart](https://github.com/gauravjain024/Angular8-Dashboard/blob/master/images/AreaChart.png?raw=true)
+
+![Table and Pie Chart](https://github.com/gauravjain024/Angular8-Dashboard/blob/master/images/Image2.png?raw=true)
 
 ## Development server
 
